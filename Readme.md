@@ -2,4 +2,4 @@
 ## My name is `Akshat Mittal`. I'm a Second year student at `IIT Guwahati`.
 <br>
 
-## This is a link to my [Github](https://github.com/akshatmittal2002)  Profile.<br>Do foolow and star my Repositories. 😇
+## This is a link to my [Github](https://github.com/akshatmittal2002)  Profile.<br>Do follow and star my Repositories. 😇

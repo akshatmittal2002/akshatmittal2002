@@ -1,7 +1,7 @@
 ## Hi there 👋 , I’m Akshat Mittal.
-<br>
 
 # 👨‍🎓 About Me
+
 - 🔭 I’m currently studying in **[IIT Guwahati](https://www.iitg.ac.in/)** 🏫.
 - 🌱 I’m currently doing BTech in **[Computer Science and Engineering](https://www.iitg.ac.in/cse/)** 👨‍💻.
 - 👀 I’m interested in **[Competitive Programming](#cp-achievements)**.
@@ -18,12 +18,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmittal2002&layout=compact">
 <br><br>
 <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akshatmittal2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-<br>
-<br>
+<br><br>
 
 # ❤ Views and Followers
 <img src="https://komarev.com/ghpvc/?username=akshatmittal2002">
 <a href="https://github.com/akshatmittal2002?tab=followers">
+
 <img src="https://img.shields.io/github/followers/akshatmittal2002?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 

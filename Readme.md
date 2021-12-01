@@ -32,11 +32,10 @@
 
 ## CP Achievements
 1. [HackerRank](https://www.hackerrank.com/akshatmittal2002) : 5 Stars in Problem Solving
-2. [Codechef](https://www.codechef.com/users/akshat_mittal) Rating : 1765 (as of 1-Dec-2021)
-3. [Codeforces](https://codeforces.com/profile/superstar2110) Rating : 1191 (as of 1-Dec-2021)
+2. [Codechef](https://www.codechef.com/users/akshat_mittal) Rating : 1765 (as of 1-Dec-2021) <a href="https://www.codechef.com/users/akshat_mittal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akshat_mittal" height="30" width="40" /></a>
+3. [Codeforces](https://codeforces.com/profile/superstar2110) Rating : 1191 (as of 1-Dec-2021) <a href="https://codeforces.com/profile/superstar2110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="superstar2110" height="30" width="40" /></a>
 4. [AtCoder](https://atcoder.jp/users/akshatmittal2002) Rating : 428 (as of 1-Dec-2021)
 <br><br>
 
-## Connect with me
-
+## Connect With Me
 <p><a href = "https://www.facebook.com/akshat.mittal.942"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a></p>

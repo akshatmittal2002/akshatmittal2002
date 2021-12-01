@@ -31,12 +31,12 @@
 <br>
 
 ## CP Achievements
+<br>
 
-- [HackerRank](https://www.hackerrank.com/akshatmittal2002) : 5 Stars in Problem Solving<br>
-- <a href="https://www.codechef.com/users/akshat_mittal">![Badge](https://cp-logo.vercel.app/codechef/akshat_mittal?logo=true)</a><br>
-- <a href="https://codeforces.com/profile/superstar2110">![Badge](https://cp-logo.vercel.app/codeforces/superstar2110?logo=true)</a><br>
-- <a href="https://atcoder.jp/users/akshatmittal2002">![Badge](https://cp-logo.vercel.app/atcoder/akshatmittal2002?logo=true)</a>
-<br><br>
+- [HackerRank](https://www.hackerrank.com/akshatmittal2002) : 5 Stars in Problem Solving<br><br>
+- <a href="https://www.codechef.com/users/akshat_mittal">![Badge](https://cp-logo.vercel.app/codechef/akshat_mittal?logo=true)</a><br><br>
+- <a href="https://codeforces.com/profile/superstar2110">![Badge](https://cp-logo.vercel.app/codeforces/superstar2110?logo=true)</a><br><br>
+- <a href="https://atcoder.jp/users/akshatmittal2002">![Badge](https://cp-logo.vercel.app/atcoder/akshatmittal2002?logo=true)</a><br><br><br>
 
 ## Connect With Me
 <p><a href = "https://www.facebook.com/akshat.mittal.942"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a></p>

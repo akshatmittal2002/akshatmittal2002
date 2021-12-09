@@ -22,9 +22,8 @@
 
 ## ❤ Views and Followers
 <img src="https://komarev.com/ghpvc/?username=akshatmittal2002">
-<a href="https://github.com/akshatmittal2002?tab=followers">
 
-<img src="https://img.shields.io/github/followers/akshatmittal2002?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/akshatmittal2002?tab=followers"><img src="https://img.shields.io/github/followers/akshatmittal2002?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
 ### Show some ❤️ by starring some of the [Repositories](https://github.com/akshatmittal2002?tab=repositories) !

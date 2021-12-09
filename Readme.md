@@ -6,8 +6,9 @@
 - 🌱 I’m currently doing BTech in **[Computer Science and Engineering](https://www.iitg.ac.in/cse/)** 👨‍💻.
 - 👀 I’m interested in **[Competitive Programming](#cp-achievements)**.
 - 🌱 I’m currently learning **Web and App Development**.
+- 📫 How to reach me **mittalakshat.kt@gmail.com**
 - ⚡ Fun fact: **I like playing cricket 🏏 and watching movies 🍿**.
- <p align="center">
+<p align="center">
     <img title="Stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatmittal2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
@@ -23,7 +24,7 @@
 ## ❤ Views and Followers
 <img src="https://komarev.com/ghpvc/?username=akshatmittal2002">
 
-<a href="https://github.com/akshatmittal2002?tab=followers"><img src="https://img.shields.io/github/followers/akshatmittal2002?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href=""><img src="https://img.shields.io/github/followers/akshatmittal2002?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
 ### Show some ❤️ by starring some of the [Repositories](https://github.com/akshatmittal2002?tab=repositories) !
@@ -38,4 +39,5 @@
 - <a href="https://atcoder.jp/users/akshatmittal2002">![Badge](https://cp-logo.vercel.app/atcoder/akshatmittal2002?logo=true)</a><br><br><br>
 
 ## Connect With Me
-<p><a href = "https://www.facebook.com/akshat.mittal.942"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a></p>
+<br>
+<p><a href = "https://www.facebook.com/akshat.mittal.942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/facebook.svg" alt="Akshat Mittal" height="40" width="40"/></a><!--&nbsp;&nbsp;&nbsp;<a href="" taget="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="" height="40" width="40"/></a>&nbsp;&nbsp;&nbsp;<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="" height="40" width="40"/></a>--></p>

@@ -12,8 +12,11 @@
 
 ## 📊 My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmittal2002&layout=compact" alt="akshatmittal"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatmittal2002&&show_icons=true&title_color=F4F704&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="akshatmittal"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatmittal2002&show_icons=true&locale=en" alt="akshatmittal" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatmittal2002&show_icons=true&locale=en" alt="akshatmittal" /></p>
+
 _Most used languages doesn't reflect my proficiency in a language and is simply a statistic from my repositories, in which language I have written the most lines of code in._
 
 <br>

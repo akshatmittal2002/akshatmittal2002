@@ -8,15 +8,14 @@
 - 🌱 I’m currently learning **Web and App Development**.
 - 📫 How to reach me **mittalakshat.kt@gmail.com**
 - ⚡ Fun fact: **I like playing cricket 🏏 and watching movies 🍿**.
-<p align="center">
-    <img title="Stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatmittal2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
+<p align="center"><img title="Stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatmittal2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
 
 ## 📊 My Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshatmittal2002&&show_icons=true&title_color=F4F704&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmittal2002&layout=compact">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmittal2002&layout=compact" alt="akshatmittal"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatmittal2002&&show_icons=true&title_color=F4F704&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="akshatmittal"/></p>
+_Most used languages doesn't reflect my proficiency in a language and is simply a statistic from my repositories, in which language I have written the most lines of code in._
+
 <br>
 <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akshatmittal2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 <br><br>

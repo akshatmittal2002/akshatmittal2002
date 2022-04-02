@@ -35,7 +35,7 @@ _Most used languages doesn't reflect my proficiency in a language and is simply 
 ## CP Achievements
 <br>
 
-- [HackerRank](https://www.hackerrank.com/akshatmittal2002) : 5 Stars ⭐ in Problem Solving<br><br>
+- [HackerRank](https://www.hackerrank.com/akshatmittal2002) : 5 ⭐ in Problem Solving<br><br>
 - <a href="https://codeforces.com/profile/AkshatMittal2002">![Badge](https://cp-logo.vercel.app/codeforces/AkshatMittal2002?logo=true)</a><br><br>
 - <a href="https://leetcode.com/AkshatMittal2002">![Badge](https://cp-logo.vercel.app/leetcode/AkshatMittal2002?logo=true)</a><br><br>
 - <a href="https://www.codechef.com/users/akshat_mittal">![Badge](https://cp-logo.vercel.app/codechef/akshat_mittal?logo=true)</a><br><br>

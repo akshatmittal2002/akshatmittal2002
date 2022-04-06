@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Web and App Development**.
 - 📫 How to reach me **mittalakshat.kt@gmail.com**
 - ⚡ Fun fact: **I like playing cricket 🏏 and watching movies 🍿**.
-<p align="center"><img title="Stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatmittal2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
+<p align="center"><img title="Stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatmittal2002&hide_border=true&theme=black-ice&date_format=j%20M%5B%20Y%5D&stroke=0000&background=060A0CD0"/></p>
 
 ## 📊 My Github Stats
 

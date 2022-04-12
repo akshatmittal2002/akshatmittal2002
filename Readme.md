@@ -20,7 +20,7 @@
 _Most used languages doesn't reflect my proficiency in a language and is simply a statistic from my repositories, in which language I have written the most lines of code in._
 
 <br>
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akshatmittal2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akshatmittal2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 <br><br>
 
 ## ❤ Views and Followers
@@ -39,7 +39,7 @@ _Most used languages doesn't reflect my proficiency in a language and is simply 
 - <a href="https://codeforces.com/profile/AkshatMittal2002">![Badge](https://cp-logo.vercel.app/codeforces/AkshatMittal2002?logo=true)</a><br><br>
 - <a href="https://leetcode.com/AkshatMittal2002">![Badge](https://cp-logo.vercel.app/leetcode/AkshatMittal2002?logo=true)</a><br><br>
 - <a href="https://www.codechef.com/users/akshat_mittal">![Badge](https://cp-logo.vercel.app/codechef/akshat_mittal?logo=true)</a><br><br>
-- <a href="https://atcoder.jp/users/akshatmittal2002">![Badge](https://cp-logo.vercel.app/atcoder/akshatmittal2002?logo=true)</a><br><br><br>
+- <a href="https://atcoder.jp/users/akshatmittal2002">![Badge](https://cp-logo.vercel.app/atcoder/akshatmittal2002?logo=true)</a><br><br>
 
 ## Connect With Me
 <br>

@@ -1,11 +1,18 @@
 <h1 align="center"> Hi 👋 , I’m Akshat Mittal.</h1>
 
-## 👨‍🎓 About Me
+<img src="https://komarev.com/ghpvc/?username=akshatmittal2002"><br>
+
+
 - 🔭 I’m currently studying in **[IIT Guwahati](https://www.iitg.ac.in/)** 🏫.
+
 - 🌱 I’m currently doing BTech in **[Computer Science and Engineering](https://www.iitg.ac.in/cse/)** 👨‍💻.
+
 - 👀 I’m interested in **[Competitive Programming](#cp-achievements)**.
+
 - 🌱 I’m currently learning **Web and App Development**.
+
 - 📫 How to reach me **mittalakshat.kt@gmail.com**
+
 - ⚡ Fun fact: **I like playing cricket 🏏 and watching movies 🍿**.
 <br>
 
@@ -30,15 +37,9 @@
 <a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Javascript" width="40" height="40"/></a></p>
 <br>
 
-## 📊 My Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatmittal2002&show_icons=true&locale=en" alt="akshatmittal"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatmittal2002&show_icons=true&locale=en" alt="akshatmittal"/></p>
 _Most used languages doesn't reflect my proficiency in a language and is simply a statistic from my repositories, in which language I have written the most lines of code in._
-<br>
-
-## ❤ Views and Followers
-<img src="https://komarev.com/ghpvc/?username=akshatmittal2002"><br>
-<a href="https://github.com/akshatmittal2002?tab=followers"><img src="https://img.shields.io/github/followers/akshatmittal2002?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 
 ## CP Achievements

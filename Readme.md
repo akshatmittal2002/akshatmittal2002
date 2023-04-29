@@ -49,5 +49,5 @@ _Most used languages doesn't reflect my proficiency in a language and is simply 
 - <a href="https://www.codechef.com/users/akshat_mittal">![Badge](https://cp-logo.vercel.app/codechef/akshat_mittal?logo=true)</a><br><br>
 - <a href="https://atcoder.jp/users/akshatmittal2002">![Badge](https://cp-logo.vercel.app/atcoder/akshatmittal2002?logo=true)</a><br><br>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)

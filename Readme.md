@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently doing BTech in **[Computer Science and Engineering](https://www.iitg.ac.in/cse/)** 👨‍💻.
 
-- 👀 I’m interested in **[Competitive Programming](#cp-statistics)**.
+<!-- - 👀 I’m interested in **[Competitive Programming](#cp-statistics)**. -->
 
-- 🌱 I’m currently learning **Web and App Development**.
+- 🌱 I’m currently learning **Deep Learning**.
 
-- 📫 How to reach me **mittalakshat.kt@gmail.com**
+- 📫 Reach me using **mittalakshat.kt@gmail.com**
 
 - ⚡ Fun fact: **I like playing cricket 🏏 and watching movies 🍿**.
 <br>
@@ -46,5 +46,10 @@ _Most used languages doesn't reflect my proficiency in a language and is simply 
 - [HackerRank](https://www.hackerrank.com/akshatmittal2002) : 5 ⭐ in Problem Solving<br><br>
 - <a href="https://codeforces.com/profile/AkshatMittal2002">![Codeforces](https://cp-logo.vercel.app/codeforces/AkshatMittal2002?logo=true)</a><br><br>
 - <a href="https://leetcode.com/AkshatMittal2002">![LeetCode](https://cp-logo.vercel.app/leetcode/AkshatMittal2002?logo=true)</a><br><br>
-- <a href="https://www.codechef.com/users/akshat_mittal">![Codechef](https://cp-logo.vercel.app/codechef/akshat_mittal?logo=true)</a><br><br>
 - <a href="https://atcoder.jp/users/akshatmittal2002">![AtCoder](https://cp-logo.vercel.app/atcoder/akshatmittal2002?logo=true)</a><br><br>
+
+## Programmer's Quote of the Day:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)

@@ -42,12 +42,6 @@
 _Most used languages doesn't reflect my proficiency in a language and is simply a statistic from my repositories, in which language I have written the most lines of code in._
 <br>
 
-## CP Statistics
-- [HackerRank](https://www.hackerrank.com/akshatmittal2002) : 5 ⭐ in Problem Solving<br><br>
-- <a href="https://codeforces.com/profile/AkshatMittal2002">![Codeforces](https://cp-logo.vercel.app/codeforces/AkshatMittal2002?logo=true)</a><br><br>
-- <a href="https://leetcode.com/AkshatMittal2002">![LeetCode](https://cp-logo.vercel.app/leetcode/AkshatMittal2002?logo=true)</a><br><br>
-- <a href="https://atcoder.jp/users/akshatmittal2002">![AtCoder](https://cp-logo.vercel.app/atcoder/akshatmittal2002?logo=true)</a><br><br>
-
 ## Programmer's Quote of the Day:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)<br>

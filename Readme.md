@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 , I’m Akshat Mittal.</h1>
 
-💻 **Software Engineer at UiPath** with a strong foundation in Computer Science and a passion for solving challenging problems through full-stack development. My experience spans **C#**🔹, **Angular** ⚡, and modern software engineering practices.
+💻 **Software Engineer at UiPath** with a strong foundation in Computer Science and a passion for solving challenging problems through full-stack development. My experience spans **C#** 🔹, **Angular** ⚡, and modern software engineering practices.
 
 I completed my **B.Tech. in Computer Science and Engineering** from **IIT Guwahati** 🎓.
 
@@ -32,8 +32,8 @@ I completed my **B.Tech. in Computer Science and Engineering** from **IIT Guwaha
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" title="TypeScript"/></a>
 <a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40" title="NodeJs"/></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatmittal2002&show_icons=true&locale=en" alt="akshatmittal"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatmittal2002&show_icons=true&locale=en" alt="akshatmittal"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-mittal-2110&show_icons=true&locale=en" alt="akshatmittal"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-mittal-2110&show_icons=true&locale=en" alt="akshatmittal"/></p>
 
 <br clear="both" />
 <br>
